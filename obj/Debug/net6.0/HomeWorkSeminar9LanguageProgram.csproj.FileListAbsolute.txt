@@ -1,0 +1,15 @@
+D:\HomeWorkSeminar9LanguageProgram\bin\Debug\net6.0\HomeWorkSeminar9LanguageProgram.exe
+D:\HomeWorkSeminar9LanguageProgram\bin\Debug\net6.0\HomeWorkSeminar9LanguageProgram.deps.json
+D:\HomeWorkSeminar9LanguageProgram\bin\Debug\net6.0\HomeWorkSeminar9LanguageProgram.runtimeconfig.json
+D:\HomeWorkSeminar9LanguageProgram\bin\Debug\net6.0\HomeWorkSeminar9LanguageProgram.dll
+D:\HomeWorkSeminar9LanguageProgram\bin\Debug\net6.0\HomeWorkSeminar9LanguageProgram.pdb
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.csproj.AssemblyReference.cache
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.AssemblyInfoInputs.cache
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.AssemblyInfo.cs
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.csproj.CoreCompileInputs.cache
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.dll
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\refint\HomeWorkSeminar9LanguageProgram.dll
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.pdb
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\HomeWorkSeminar9LanguageProgram.genruntimeconfig.cache
+D:\HomeWorkSeminar9LanguageProgram\obj\Debug\net6.0\ref\HomeWorkSeminar9LanguageProgram.dll
